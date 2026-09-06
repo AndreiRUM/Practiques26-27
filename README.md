@@ -1,4 +1,4 @@
-# Practiques25-26
+# Practiques26-27
 
 ## Repositori per realitzar l'exercici de Pull Request
 
